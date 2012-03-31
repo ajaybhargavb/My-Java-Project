@@ -1,0 +1,8 @@
+This java application lets you draw a graph and implement certain algorithms on them.
+
+Algorithms implemented are : 
+
+1. Kruskal
+2. Dijkstra
+3. BFS
+4. DFS
